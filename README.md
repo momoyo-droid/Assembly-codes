@@ -1,2 +1,2 @@
 # assembly-codes
-Assembly codes for Computer Architecture and Organization.
+Códigos feitos em Assembly para a disciplina de Organização e Arquitetura de Computadores
