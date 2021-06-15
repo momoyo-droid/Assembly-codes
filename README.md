@@ -1,2 +1,2 @@
 # assembly-codes
-Códigos feitos em Assembly para a disciplina de Organização e Arquitetura de Computadores
+codes made for learning assembly language
